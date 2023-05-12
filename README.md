@@ -4,6 +4,12 @@
 
 # TSyringe
 
+**This is a fork of the TSYRINGE repository**.
+
+There are 2 published version 4.7.1 and 5.0.0.
+
+5.0.0 is a mistake in the release process. It's not a breaking change. It's equivalent to release 4.7.1.
+
 A lightweight dependency injection container for TypeScript/JavaScript for
 constructor injection.
 
